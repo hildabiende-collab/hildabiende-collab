@@ -13,8 +13,8 @@ Check out my latest technical writing on Hashnode:
 *   [Hilda Biende Hashnode Blog](https://hilda-biende.hashnode.dev)
 
  🚀 Let's Connect
-*   LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/hilda-biende)
-*   Portfolio:** [Visit my Profile](https://github.com/hildabiende-collab)
+*   LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/hilda-biende)
+*   Portfolio: [Visit my Profile](https://github.com/hildabiende-collab)
 
 ---
 *Always learning, always documenting.*
