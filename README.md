@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello, I'm Hilda Biende! 👋
 
-<!--
-**hildabiende-collab/hildabiende-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Web Developer and Technical Writer based in Lubumbashi, passionate about data-driven solutions and sharing knowledge through documentation.
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+*   Languages:** PHP, SQL
+*   Databases:** SQL Server, SQLite
+*   Tools:** VS Code, Git, Atlassian Confluence
+*   Currently Learning:** Odoo (ERP)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✍️ Recent Articles
+Check out my latest technical writing on Hashnode:
+*   [Hilda Biende's Hashnode Blog](https://hilda-biende.hashnode.dev)
+
+ 🚀 Let's Connect
+*   LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/hilda-biende)
+*   Portfolio:** [Visit my Profile](https://github.com/hildabiende-collab)
+
+---
+*Always learning, always documenting.*
